@@ -1,5 +1,5 @@
 # S-DES Encryption
-## Simplified Data Encryption Standard Algorithm in C Language
+## Implementation of Simplified Data Encryption Standard Algorithm in C Language
 
 Until the introduction of Advanced Encryption Standard (AES) in 2001, the Data Encryption Standard (DES) was the most widely used encryption schemes.
 DES was issued in 1977 by NIST, as FIPS-46.
