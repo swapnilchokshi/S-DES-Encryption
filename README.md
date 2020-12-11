@@ -18,3 +18,10 @@ The Encryption Processing of plaintext proceeds in 3 phases:-
 3) Finally, preoutput is passed through a permutation (IP-1) that is inverse of initial permutation function, to produce ciphertext.
 
 The key is passed through a permutation function. Then a subkey is produced for each 16 rounds by combination of left circular swift and a permutation. The permutation function is the same for every round, but a different subkey is produced because of the repeated shifts of key bits.
+
+![DES ENCRYPTION AND DECRYPTION PROCESS](https://www.brainkart.com/media/extra/0QHPefM.jpg)
+
+![KEY GENERATION](https://www.brainkart.com/media/extra/ZaaYJhs.jpg)
+
+![WHOLE PROCESS](https://sandilands.info/sgordon/images/sdes-encrypt-1-r123.png)
+
